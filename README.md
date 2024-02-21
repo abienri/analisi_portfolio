@@ -1,0 +1,1 @@
+codice python per analizzare degli asset dati in input i tiker e il peso nel portafoglio (usare 0.1 per rappresentare il 10%), dare in input un tiker alla volta e dal secondo in poi si vede l'equity del portafoglio.
